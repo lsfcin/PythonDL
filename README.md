@@ -1,2 +1,2 @@
 # PythonDL
-testin pytorch tutorials for academic purposes
+testing pytorch tutorials for academic purposes
